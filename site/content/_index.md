@@ -3,19 +3,11 @@ title: 天然居硅藻泥
 subtitle: 长子店
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: 什么是硅藻泥？
+  text: 把硅藻泥的介绍放在这
 intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: 长子硅藻泥公司的名字
+  text: 把公司介绍放在这
 products:
   - image: img/illustrations-coffee.svg
     text: >-

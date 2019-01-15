@@ -1,33 +1,12 @@
 ---
-title: 天然居硅藻泥
-subtitle: 长子店
 image: /img/huashao.jpg
 blurb:
-  heading: 什么是硅藻泥？
-  text: 把硅藻泥的介绍放在这
+  heading: 关于天然居硅藻泥
+  text: 天然居硅藻泥创建于2010年，总占地面积158亩，坐落于中国高科新城武汉葛店经济开发区的现代科技研发生产基地； 引进国际先进生产设备，弘扬中华匠人精神，研发高品质硅藻产品系列，标准化高质量全套施工工艺流程； 完善的服务团队，深耕化的培训体系，终身化维护保养政策，全国24小时服务热线，精心打造中国民生品牌
 intro:
-  heading: 长子硅藻泥公司的名字
-  text: 把公司介绍放在这
-products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
-values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: 长治天然居硅藻泥
+  text: 热烈恭贺高端天然居硅藻泥全面入驻长治。
+天然居硅藻泥是高端硅藻泥，不同于一般的墙面材料，天然居健康、环保，零甲醛。作为了一种墙面装修材料，他不光拥有其他壁纸，涂料，漆的功能，还兼具了环保、时尚的特点，硅藻泥可以裱糊字画，彰显文艺气息，对孩子也是气质熏陶。更重要的是，普通的装修材料释放甲醛，而天然居竟然还可以吸收其他装修的甲醛，无时无刻不在保护家人的呼吸。家里难免会有甲醛，买了硅藻泥，与普通墙面比较不仅让您有面子，还相当于买了一台透明的甲醛清除机。而这一切，只需要花一分墙面装修钱，值了！天然居物超所值，装修就要选高端天然居硅藻泥。
+
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 天然居硅藻泥
 subtitle: 长子店
-image: /img/home-jumbotron.jpg
+image: /img/huashao.jpg
 blurb:
   heading: 什么是硅藻泥？
   text: 把硅藻泥的介绍放在这
